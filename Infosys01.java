@@ -1,7 +1,7 @@
 /*
 Longest Sequence of elements in increasing/non-decreasing order with corresponding to their color
 (colors should not be consequtively same above 2 times)
-Link: https://onlinegdb.com/XjbH0Ar1N
+Link: https://onlinegdb.com/Z3FxlDNDC
 */
 
 import java.util.*;
